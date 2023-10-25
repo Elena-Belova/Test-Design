@@ -17,5 +17,7 @@
 
 ![Границы](https://github.com/Elena-Belova/Test-Design/assets/148638077/24133905-3011-4bac-b478-e865d4720d0a)
 
-![Границы2](https://github.com/Elena-Belova/Test-Design/assets/148638077/e49b6777-d3ba-4fc4-83db-27714664af57)
+![Границы2](https://github.com/Elena-Belova/Test-Design/assets/148638077/b60fcd3c-20a3-40ed-aacf-23fe8f04c86c)
+
+<hr>
 
