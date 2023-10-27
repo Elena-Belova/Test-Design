@@ -6,6 +6,8 @@
 * [Попарное тестирование](#pairwise)
 <hr>
 
+[Проект](https://github.com/Elena-Belova/Test-Design/blob/cc393ebe77d6369e88fea71aa08cc4dc9920e722/Project.md)
+
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 
 ***Проверка поведения продукта:*** РЖД "Возврат электронных билетов"<br>
