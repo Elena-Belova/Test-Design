@@ -36,6 +36,7 @@
 
 ***Оформление заявки на получение кредита***
 ![Таблица решений2](https://github.com/Elena-Belova/Test-Design/assets/148638077/8a958e21-6cdf-470a-aa57-5de29f853fc4)
+![Таблица решений2б](https://github.com/Elena-Belova/Test-Design/assets/148638077/94f5c789-5676-4b3c-85a3-af6784e85157)
 
 
 
