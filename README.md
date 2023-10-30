@@ -39,7 +39,10 @@
 3) разрешение может быть 1280x720 или 1920x1080
 
 **Таблица решений**
-![Таблица решений2](https://github.com/Elena-Belova/Test-Design/assets/148638077/fdff6088-e470-44a1-aaa3-855b41e00553)
+![Таблица решений1](https://github.com/Elena-Belova/Test-Design/assets/148638077/fdff6088-e470-44a1-aaa3-855b41e00553)
+
+![Таблица решений2](https://github.com/Elena-Belova/Test-Design/assets/148638077/1696e605-ab25-4648-98a4-d19cbe80c0e0)
+
 <hr>
 
 ### <a name="diagram"></a> Диаграмма состояний и переходов
