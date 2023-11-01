@@ -41,8 +41,7 @@
 
 
 ***Загрузка видеозаписи пользователем***
-
-![Таблица решений1](https://github.com/Elena-Belova/Test-Design/assets/148638077/fdff6088-e470-44a1-aaa3-855b41e00553)
+![Таблица решений1](https://github.com/Elena-Belova/Test-Design/assets/148638077/b6919396-7a0d-410c-9c91-96e59d83ff7f)
 
 <hr>
 
