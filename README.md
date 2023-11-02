@@ -22,15 +22,9 @@
 - менее чем за 2 часа до отправления поезда – только стоимость билета. Стоимость плацкарты не возвращается;
 - при опоздании на поезд в течение 12 часов после отправления, либо вследствие болезни / несчастного случая (при наличии подтверждающих документов) в течение 5 суток с момента отправления поезда – только стоимость билета. Стоимость плацкарты не возвращается.
 
-**Применение классов эквивалентности для выбора тестовых данных**
+**Применение классов эквивалентности и анализа граничных значений для выбора тестовых данных**
 
-![Классы Эквив](https://github.com/Elena-Belova/Test-Design/assets/148638077/0b70852a-9ebf-4c0c-9a6f-e54a8311eda9)
-
-
-**Анализ граничных значений для выбора тестовых данных**
-
-![Границы](https://github.com/Elena-Belova/Test-Design/assets/148638077/24133905-3011-4bac-b478-e865d4720d0a)
-![Границы2](https://github.com/Elena-Belova/Test-Design/assets/148638077/b60fcd3c-20a3-40ed-aacf-23fe8f04c86c)
+![Классы РжД2](https://github.com/Elena-Belova/Test-Design/assets/148638077/1666a39e-f149-43f9-938d-53a9bc248e4a)
 <hr>
 
 ### <a name="domen"></a> Доменный анализ
@@ -62,9 +56,23 @@
 ![Таблица решений2](https://github.com/Elena-Belova/Test-Design/assets/148638077/8a958e21-6cdf-470a-aa57-5de29f853fc4)
 ![Таблица решений2б](https://github.com/Elena-Belova/Test-Design/assets/148638077/94f5c789-5676-4b3c-85a3-af6784e85157)
 
+<hr>
+
+![Таблицы решений Кредит](https://github.com/Elena-Belova/Test-Design/assets/148638077/0befaa34-ed0c-4738-86f8-3eddd426cb2f)
+
+<hr>
+
+![Таблица решений 1 Кредит](https://github.com/Elena-Belova/Test-Design/assets/148638077/8e02d65e-88a7-40dd-ab6a-c134e17754ff)
+![Таблица решений 2 Кредит](https://github.com/Elena-Belova/Test-Design/assets/148638077/686485fa-bd05-49ce-b706-93e3df74a8b7)
+
+
 ***Загрузка видеозаписи пользователем***
 ![Таблица решений1](https://github.com/Elena-Belova/Test-Design/assets/148638077/b6919396-7a0d-410c-9c91-96e59d83ff7f)
 <hr>
+
+![Таблица решений Видео](https://github.com/Elena-Belova/Test-Design/assets/148638077/a812ee08-3ce7-45e5-9aad-f9d0520a7e9b)
+
+
 
 ### <a name="usecase"></a> Тестирование по сценариям использования
 
