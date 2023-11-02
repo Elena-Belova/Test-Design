@@ -34,6 +34,8 @@
 
 ### <a name="domen"></a> Доменный анализ
 
+![Доменный анализ](https://github.com/Elena-Belova/Test-Design/assets/148638077/29f451c0-40ce-42d9-8514-08825a7b87ff)
+
 <hr>
 
 ### <a name="pairwise"></a> Попарное тестирование
