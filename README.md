@@ -12,6 +12,8 @@
 
 [Проект](https://github.com/Elena-Belova/Test-Design/blob/cc393ebe77d6369e88fea71aa08cc4dc9920e722/Project.md)
 
+[Проект "Модальное окно Оплаты товаров"](https://github.com/Elena-Belova/Test-Design/blob/b25f569ca32710367870a6a307da6059444ed118/Project.md)
+
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 
 ![Границы Регистрация на портале чудес](https://github.com/Elena-Belova/Test-Design/assets/148638077/7b9af251-94e8-45d2-b54b-e8953e6945bc)
