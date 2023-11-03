@@ -29,7 +29,8 @@
 ![Классы РжД2](https://github.com/Elena-Belova/Test-Design/assets/148638077/1666a39e-f149-43f9-938d-53a9bc248e4a)
 <hr>
 
-![Границы Регистрация на портале чудес](https://github.com/Elena-Belova/Test-Design/assets/148638077/7b9af251-94e8-45d2-b54b-e8953e6945bc)
+![Границы Регистрация на портале чудес](https://github.com/Elena-Belova/Test-Design/assets/148638077/2d0694f0-7cd9-4cda-9be3-3583fdacbbe0)
+
 <hr>
 
 ### <a name="domen"></a> Доменный анализ
