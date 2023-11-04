@@ -10,9 +10,10 @@
 
 <hr>
 
-[Проект](https://github.com/Elena-Belova/Test-Design/blob/cc393ebe77d6369e88fea71aa08cc4dc9920e722/Project.md)
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
 
-[Проект "Модальное окно Оплаты товаров"](https://github.com/Elena-Belova/Test-Design/blob/b25f569ca32710367870a6a307da6059444ed118/Project.md)
+[Проект "Модальное окно Оплаты товаров"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20Modal%20window.md)
+
 
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 
@@ -37,6 +38,7 @@
 
 ![Доменный анализ](https://github.com/Elena-Belova/Test-Design/assets/148638077/29f451c0-40ce-42d9-8514-08825a7b87ff)
 
+[Проект "Модальное окно" Доменный анализ.pdf](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/MW%20Domen.pdf)
 <hr>
 
 ### <a name="pairwise"></a> Попарное тестирование
