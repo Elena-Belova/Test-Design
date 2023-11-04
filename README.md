@@ -10,14 +10,13 @@
 
 <hr>
 
-[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
-
-[Проект "Модальное окно Оплаты товаров"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20Modal%20window.md)
-
-
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 
 **Применение классов эквивалентности и анализа граничных значений для выбора тестовых данных**
+
+[Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20Modal%20window.md)
+
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
 
 ***РЖД "Возврат электронных билетов"*** <br>
 ***Условия:***
@@ -43,6 +42,10 @@
 
 ### <a name="pairwise"></a> Попарное тестирование
 
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
+
+![Pairwise Фильтр Дом питомца](https://github.com/Elena-Belova/Test-Design/assets/148638077/dc8d8fe4-a092-4260-b944-4281b85820e2)
+
 <hr>
 
 ### <a name="diagram"></a> Диаграмма состояний и переходов
@@ -52,6 +55,7 @@
 ![Диаграмма состояний и переходов](https://github.com/Elena-Belova/Test-Design/assets/148638077/2a7810aa-c8d4-465d-86aa-6515f3e501e2)
 
 Инструменты: ***Miro***
+
 <hr>
 
 ### <a name="table_transit"></a> Таблица состояний и переходов
