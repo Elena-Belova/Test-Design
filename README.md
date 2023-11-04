@@ -16,7 +16,7 @@
 
 [Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20Modal%20window.md)
 
-[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/CN%20Equivalence%20classes.pdf)
 
 ***РЖД "Возврат электронных билетов"*** <br>
 ***Условия:***
