@@ -14,9 +14,9 @@
 
 **Применение классов эквивалентности и анализа граничных значений для выбора тестовых данных**
 
-[Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20Modal%20window.md)
+[Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.md)
 
-[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/CN%20Equivalence%20classes.pdf)
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D0%B8%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20(%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8).pdf)
 
 ***РЖД "Возврат электронных билетов"*** <br>
 ***Условия:***
@@ -37,12 +37,12 @@
 
 ![Доменный анализ](https://github.com/Elena-Belova/Test-Design/assets/148638077/29f451c0-40ce-42d9-8514-08825a7b87ff)
 
-[Проект "Модальное окно" Доменный анализ.pdf](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/MW%20Domen.pdf)
+[Проект "Модальное окно" Доменный анализ.pdf](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.pdf)
 <hr>
 
 ### <a name="pairwise"></a> Попарное тестирование
 
-[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/Project%20creating%20news.md)
+[Проект "Создание новости"](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D0%B8%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20(%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8).pdf)
 
 ![Pairwise Фильтр Дом питомца](https://github.com/Elena-Belova/Test-Design/assets/148638077/dc8d8fe4-a092-4260-b944-4281b85820e2)
 
@@ -59,7 +59,8 @@
 <hr>
 
 ### <a name="table_transit"></a> Таблица состояний и переходов
-
+[Таблица переходов Тикеты.pdf]
+[Таблица состояний Банк Авторизация.pdf]
 <hr>
 
 ### <a name="table"></a> Таблица решений (альтернатив)
@@ -76,7 +77,7 @@
 <hr>
 
 ### <a name="usecase"></a> Тестирование по сценариям использования
-
+[Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
 <hr>
 
 
