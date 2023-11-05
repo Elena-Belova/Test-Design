@@ -16,6 +16,8 @@
 ![Классы эквивалентности Таб2бш](https://github.com/Elena-Belova/Test-Design/assets/148638077/54ea93ad-5804-4547-8a1c-598a545182ac)
 ![Классы эквивалентности Таб3бш](https://github.com/Elena-Belova/Test-Design/assets/148638077/e33f2da8-6ce7-49a0-9a95-60e2bd8b609a)
 ![Классы эквивалентности Таб4бш](https://github.com/Elena-Belova/Test-Design/assets/148638077/655b523d-c9a9-4c89-8ee0-d00e1505a35f)
+
+[(вариант в pdf)](https://github.com/Elena-Belova/Test-Design/blob/8e428a07e13223119d67e512d9d096dad1bc79f0/MW%20Equivalence%20classes.pdf)
 <hr>
 
 **Доменный анализ** [(вариант в pdf)](https://github.com/Elena-Belova/Test-Design/blob/7f80e43e0945ac78d6101c34611d0889dc70376c/MW%20Domen.pdf)
