@@ -56,10 +56,16 @@
 
 Инструменты: ***Miro***
 
+Диаграмма состояний и переходов для инсталлятора приложения
+![Таблица Дииаграмма состояний Тикеты](https://github.com/Elena-Belova/Test-Design/assets/148638077/dd6634af-1e6d-488d-aacf-a8ffd5c0fef8)
+
+
 <hr>
 
 ### <a name="table_transit"></a> Таблица состояний и переходов
+![Таблица переходов Тикеты](https://github.com/Elena-Belova/Test-Design/assets/148638077/74aa9ec3-3853-4528-ada5-5cfbcc73912f)
 [Таблица переходов Тикеты.pdf]
+![Таблица состояний Банк](https://github.com/Elena-Belova/Test-Design/assets/148638077/e87fc3f0-6c9f-4ab9-809d-47dce2609cac)
 [Таблица состояний Банк Авторизация.pdf]
 <hr>
 
@@ -78,6 +84,10 @@
 
 ### <a name="usecase"></a> Тестирование по сценариям использования
 [Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
+
+![Пользоательский сценарий](https://github.com/Elena-Belova/Test-Design/assets/148638077/24ad11f5-b330-46fc-809f-5ed70f68b503)
+
+
 <hr>
 
 
