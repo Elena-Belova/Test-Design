@@ -66,13 +66,7 @@
 ### <a name="table"></a> Таблица решений (альтернатив)
 **Загрузка видеозаписи пользователем**
 ![Таблица решений1](https://github.com/Elena-Belova/Test-Design/assets/148638077/b6919396-7a0d-410c-9c91-96e59d83ff7f)
+
 **Оформление заявки на получение кредита**
 ![Таблицы решений Кредит](https://github.com/Elena-Belova/Test-Design/assets/148638077/0befaa34-ed0c-4738-86f8-3eddd426cb2f)
 <hr>
-
-
-
-
-
-
-
