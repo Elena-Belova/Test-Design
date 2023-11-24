@@ -37,7 +37,7 @@
 
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 ![Классы эквивалентности Новости1](https://github.com/Elena-Belova/Test-Design/assets/148638077/6d29bc89-75e3-48f9-9524-d14bf764bb4a)
-&#8594; [Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.md)
+&#8594; [Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/815f3f643a1dcbdc8ffbca108a831895250febc6/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.md)
 ![Классы эквивалентности МО Таб1](https://github.com/Elena-Belova/Test-Design/assets/148638077/479c88de-7636-4392-a2ed-5c07dcc26d17)
 <hr>
 
