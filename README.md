@@ -11,7 +11,7 @@
 <hr>
 
 ### <a name="usecase"></a> Тестирование по сценариям использования
-[Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
+[Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
 ![Пользовательский сценарий](https://github.com/Elena-Belova/Test-Design/assets/148638077/24ad11f5-b330-46fc-809f-5ed70f68b503)
 [Наверх](#up)
 <hr>
@@ -25,23 +25,24 @@
 <hr>
 
 ### <a name="table_transit"></a> Таблица состояний и переходов
-[Таблица переходов "Тикеты техподдержки".pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%A2%D0%B8%D0%BA%D0%B5%D1%82%D1%8B.pdf)
+[Таблица переходов "Тикеты техподдержки".pdf](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%A2%D0%B8%D0%BA%D0%B5%D1%82%D1%8B.pdf)
 ![Таблица переходов Тикеты](https://github.com/Elena-Belova/Test-Design/assets/148638077/74aa9ec3-3853-4528-ada5-5cfbcc73912f)
-[Таблица состояний "Авторизация в онлайн-банке".pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+
+[Таблица состояний "Авторизация в онлайн-банке".pdf](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
 ![Таблица состояний Банк](https://github.com/Elena-Belova/Test-Design/assets/148638077/e87fc3f0-6c9f-4ab9-809d-47dce2609cac)
 [Наверх](#up)
 <hr>
 
 ### <a name="domen"></a> Доменный анализ 
 ![Доменный анализ](https://github.com/Elena-Belova/Test-Design/assets/148638077/29f451c0-40ce-42d9-8514-08825a7b87ff)
-[Доменный анализ "Модальное окно "Оплата товаров".pdf](https://github.com/Elena-Belova/Test-Design/blob/1b17526fa2a7c521886c2d38a9f3757ebce74176/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.pdf)
+[Доменный анализ "Модальное окно "Оплата товаров".pdf](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.pdf)
 
 [Наверх](#up)
 <hr>
 
 ### <a name="classes"></a> Классы эквивалентности и анализ граничных значений
 ![Классы эквивалентности Новости1](https://github.com/Elena-Belova/Test-Design/assets/148638077/6d29bc89-75e3-48f9-9524-d14bf764bb4a)
-&#8594; [Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/1b17526fa2a7c521886c2d38a9f3757ebce74176/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.md)
+&#8594; [Проект "Модальное окно "Оплата товаров"](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.md)
 ![Классы эквивалентности МО Таб1](https://github.com/Elena-Belova/Test-Design/assets/148638077/479c88de-7636-4392-a2ed-5c07dcc26d17)
 [Наверх](#up)
 <hr>
@@ -67,7 +68,7 @@
 
 ### <a name="pairwise"></a> Pairwise
 ![Pairwise Фильтр Дом питомца](https://github.com/Elena-Belova/Test-Design/assets/148638077/dc8d8fe4-a092-4260-b944-4281b85820e2)
-&#8594; [Проект "Создание новости".pdf](https://github.com/Elena-Belova/Test-Design/blob/1b17526fa2a7c521886c2d38a9f3757ebce74176/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D0%B8%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20(%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8).pdf)
+&#8594; [Проект "Создание новости".pdf](https://github.com/Elena-Belova/Test-Design/blob/7ec828d81c673b08e18e279498ec29de0c0a7191/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D0%B8%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20(%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8).pdf)
 ![Попарное Новости](https://github.com/Elena-Belova/Test-Design/assets/148638077/80a3d50c-81ae-4d21-a945-0e2a32c1dd1c)
 [Наверх](#up)
 <hr>
