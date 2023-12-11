@@ -11,7 +11,7 @@
 <hr>
 
 ### <a name="usecase"></a> Тестирование по сценариям использования
-[Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/26ebe674cb5e3aa0cb1d0ae1dbd096b4efb7a67e/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
+[Тестирование по сценариям использования.pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
 ![Пользовательский сценарий](https://github.com/Elena-Belova/Test-Design/assets/148638077/24ad11f5-b330-46fc-809f-5ed70f68b503)
 [Наверх](#up)
 <hr>
@@ -25,9 +25,9 @@
 <hr>
 
 ### <a name="table_transit"></a> Таблица состояний и переходов
-[Таблица переходов "Тикеты техподдержки".pdf](https://github.com/Elena-Belova/Test-Design/blob/8c0466366ba149e5bc94fbb02d4cf3a8ad40e416/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%A2%D0%B8%D0%BA%D0%B5%D1%82%D1%8B.pdf)
+[Таблица переходов "Тикеты техподдержки".pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%A2%D0%B8%D0%BA%D0%B5%D1%82%D1%8B.pdf)
 ![Таблица переходов Тикеты](https://github.com/Elena-Belova/Test-Design/assets/148638077/74aa9ec3-3853-4528-ada5-5cfbcc73912f)
-[Таблица состояний "Авторизация в онлайн-банке".pdf](https://github.com/Elena-Belova/Test-Design/blob/c442a42daa6005889d5c1a83ad43df2f78b468f4/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+[Таблица состояний "Авторизация в онлайн-банке".pdf](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
 ![Таблица состояний Банк](https://github.com/Elena-Belova/Test-Design/assets/148638077/e87fc3f0-6c9f-4ab9-809d-47dce2609cac)
 [Наверх](#up)
 <hr>
